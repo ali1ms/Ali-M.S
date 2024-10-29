@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shaikhali854 a Full Stack Developer
-- 👀 I’m interested in ... Web Developement and a WordPress Specialist
-- 🌱 I’m currently learning ... Reactjs
+- 👀 I’m interested in Web Developement and a WordPress Specialist
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... alipec009@gmail.com
+- 📫 How to reach me alipec009@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
